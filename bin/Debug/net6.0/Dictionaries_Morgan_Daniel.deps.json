@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dictionaries_Morgan_Daniel/1.0.0": {
+        "runtime": {
+          "Dictionaries_Morgan_Daniel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionaries_Morgan_Daniel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
